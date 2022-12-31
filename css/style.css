@@ -1,0 +1,39 @@
+body{
+    font-family: 'Overpass', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+    background-color: hsl(216, 12%, 8%);
+}
+#main{
+    max-height: 23rem;
+    max-width: 23rem;
+    margin: 10% 5%;
+    padding: 5%;
+    background-color: hsl(213, 19%, 18%);
+}
+.image{
+}
+.img1{
+    border-radius: 100%;
+
+}
+.heading{
+
+}
+.desc{
+
+}
+.numbers{
+
+}
+.btn{
+
+}
+#thankyou{
+    display: none;
+}
+
